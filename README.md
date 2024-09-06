@@ -26,5 +26,7 @@ Esse é apenas o começo. Temos muitas ideias para o futuro, como:
 
 Mais atletas: Queremos ter todos os atletas brasileiros aqui!
 Filtros: Filtre por esporte, modalidade, etc.
+
+https://imersao-js.vercel.app/
 Perfil de usuário: Crie sua lista de favoritos.
 Juntos, vamos construir a maior comunidade de fãs de esportes do Brasil!
